@@ -1,0 +1,65 @@
+about:
+  description: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+  license: AGPL-3.0
+  homepage: https://nika.sh
+  head: 4f89b7a
+  archived: false
+  latestVersion: v0.116.2
+  collectedAt: 2026-09-04T04:39:51Z
+timeline:
+  created: 2026-01-02
+  lastCommit: 2026-09-04
+  lastRelease: 2026-08-31
+popularity:
+  star: 64
+  watcher: 1
+  fork: 4
+  release: 38
+  contributor: 2
+  pullRequest: 152
+  issue: 293
+language:
+  Rust: 17335768
+  Shell: 738307
+  Python: 92289
+  HTML: 80502
+  JavaScript: 16055
+  CSS: 6104
+  Tape: 3914
+  Nix: 2496
+  Dockerfile: 1994
+  Mermaid: 885
+totalLine: 18278314
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 12
+    mergedPR: 328
+    openPR: 3
+    closedIssue: 125
+    openIssue: 63
+    commit: 342
+  last90d:
+    since: 2026-06-06
+    release: 38
+    mergedPR: 899
+    openPR: 3
+    closedIssue: 222
+    openIssue: 71
+    commit: 1933
+  last180d:
+    since: 2026-03-08
+    release: 38
+    mergedPR: 929
+    openPR: 3
+    closedIssue: 222
+    openIssue: 71
+    commit: 2338
+  last360d:
+    since: 2025-09-09
+    release: 38
+    mergedPR: 983
+    openPR: 3
+    closedIssue: 222
+    openIssue: 71
+    commit: 2338
