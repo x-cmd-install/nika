@@ -5,13 +5,13 @@ about:
   head: c0fc94f
   archived: false
   latestVersion: "v0.118.7"
-  collectedAt: 2026-09-08T03:24:43Z
+  collectedAt: 2026-09-08T06:01:08Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 67
+  star: 68
   watcher: 1
   fork: 4
   release: 40
@@ -89,7 +89,7 @@ total:
   commit: 2418
 ---
 path: /home/runner/.x-repo/github.com/supernovae-st/nika
-collectedAt: 2026-09-08T03:24:55Z
+collectedAt: 2026-09-08T06:01:26Z
 loc:
   Rust:
     code: 358760
