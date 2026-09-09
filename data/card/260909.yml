@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.118.7"
   latestRelease: "v0.118.7"
   latestPrerelease: "v0.80.0-alpha.4"
-  collectedAt: 2026-09-09T06:14:24Z
+  collectedAt: 2026-09-09T20:46:48Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 2026-07-07
 popularity:
-  star: 68
+  star: 74
   watcher: 1
   fork: 4
   release: 40
   contributor: 2
-  pullRequest: 1186
+  pullRequest: 1187
   issue: 315
 language:
   Rust: 18467304
@@ -40,7 +40,7 @@ recent:
     since: 2026-08-10
     release: 13
     mergedPR: 344
-    openPR: 0
+    openPR: 1
     closedIssue: 138
     openIssue: 71
     commit: 335
@@ -48,7 +48,7 @@ recent:
     since: 2026-07-11
     release: 25
     mergedPR: 657
-    openPR: 0
+    openPR: 1
     closedIssue: 169
     openIssue: 77
     commit: 920
@@ -56,7 +56,7 @@ recent:
     since: 2026-06-11
     release: 40
     mergedPR: 936
-    openPR: 0
+    openPR: 1
     closedIssue: 233
     openIssue: 80
     commit: 1532
@@ -64,7 +64,7 @@ recent:
     since: 2026-03-13
     release: 40
     mergedPR: 974
-    openPR: 0
+    openPR: 1
     closedIssue: 235
     openIssue: 80
     commit: 2385
@@ -72,7 +72,7 @@ recent:
     since: 2025-09-14
     release: 40
     mergedPR: 1030
-    openPR: 0
+    openPR: 1
     closedIssue: 235
     openIssue: 80
     commit: 2385
@@ -80,20 +80,20 @@ recent:
     since: 2024-09-19
     release: 40
     mergedPR: 1030
-    openPR: 0
+    openPR: 1
     closedIssue: 235
     openIssue: 80
     commit: 2423
 total:
   release: 40
   mergedPR: 1030
-  openPR: 0
+  openPR: 1
   closedIssue: 235
   openIssue: 80
   commit: 2423
 ---
 path: /home/runner/.x-repo/github.com/supernovae-st/nika
-collectedAt: 2026-09-09T06:14:38Z
+collectedAt: 2026-09-09T20:47:04Z
 loc:
   Rust:
     code: 364280
