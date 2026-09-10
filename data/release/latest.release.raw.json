@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17944306,
       "digest": "sha256:89d9a1680ede12e34c292160f274e63e4eee751aaa5c30d382741c90d9b8dc06",
-      "download_count": 223,
+      "download_count": 229,
       "created_at": "2026-09-05T17:56:37Z",
       "updated_at": "2026-09-05T17:56:38Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.118.7/nika-linux-x64-0.118.7.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:10835f7d0e11770a70ca5364a1cd36207911079137a31066a79a22d029d8806c",
-      "download_count": 181,
+      "download_count": 186,
       "created_at": "2026-09-05T17:56:41Z",
       "updated_at": "2026-09-05T17:56:41Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.118.7/SHA256SUMS"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:5d3fcb66f7b796802075ffc8f4abad29eae85df70c5befb86202946739c35e24",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-05T17:56:52Z",
       "updated_at": "2026-09-05T17:56:52Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.118.7/supernovae-st-nika-check-wasm-0.118.7.tgz.sha256"
