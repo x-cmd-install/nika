@@ -14,15 +14,15 @@ x install nika
 
 ## 代码洞察
 
-合计: **488,126** 行代码（覆盖前 5 种语言、共 **1761** 个文件）。
+合计: **493,497** 行代码（覆盖前 5 种语言、共 **1775** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 376,319 | 23,851 | 29,989 | 1215 |
-| Json | 61,094 | 0 | 0 | 97 |
-| Toml | 15,466 | 1,717 | 2,241 | 94 |
-| Sh | 12,790 | 4,975 | 1,611 | 168 |
-| Yaml | 10,295 | 4,432 | 789 | 187 |
+| Rust | 381,555 | 24,026 | 30,392 | 1229 |
+| Json | 61,138 | 0 | 0 | 97 |
+| Toml | 15,466 | 1,720 | 2,241 | 94 |
+| Sh | 12,901 | 4,988 | 1,613 | 168 |
+| Yaml | 10,275 | 4,445 | 790 | 187 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,41 +42,41 @@ x install nika
 
 ## 发布
 
-- **最新版本**: `v0.118.7` (2026-09-05)
-- **最近提交**: 2026-09-13
+- **最新版本**: `v0.119.0` (2026-09-13)
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 76 · **Fork**: 4 · **开放 issue**: 320 · **贡献者**: 2
+- **Star**: 77 · **Fork**: 4 · **开放 issue**: 355 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 1061 · **开放 PR**: 0 · **已关闭 issue**: 280 · **开放 issue**: 40 · **提交数**: 2454
+- **发布数**: 41 · **已合并 PR**: 1063 · **开放 PR**: 1 · **已关闭 issue**: 283 · **开放 issue**: 72 · **提交数**: 2456
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 13 | 328 | 0 | 177 | 29 | 261 |
-| last60d | 2026-07-15 | 21 | 592 | 0 | 202 | 37 | 886 |
-| 90d | 2026-06-15 | 40 | 967 | 0 | 274 | 40 | 1442 |
-| last180d | 2026-03-17 | 40 | 1005 | 0 | 280 | 40 | 2415 |
-| 360d | 2025-09-18 | 40 | 1061 | 0 | 280 | 40 | 2415 |
-| last720d | 2024-09-23 | 40 | 1061 | 0 | 280 | 40 | 2454 |
+| 30d | 2026-08-15 | 14 | 317 | 1 | 180 | 61 | 263 |
+| last60d | 2026-07-16 | 22 | 592 | 1 | 204 | 69 | 888 |
+| 90d | 2026-06-16 | 41 | 969 | 1 | 276 | 72 | 1444 |
+| last180d | 2026-03-18 | 41 | 1005 | 1 | 283 | 72 | 2417 |
+| 360d | 2025-09-19 | 41 | 1063 | 1 | 283 | 72 | 2417 |
+| last720d | 2024-09-24 | 41 | 1063 | 1 | 283 | 72 | 2456 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.118.7/multiple.intoto.jsonl) | 27.9 KiB | `other` |
-| [nika-linux-arm64-0.118.7.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.118.7/nika-linux-arm64-0.118.7.tar.gz) | 15.8 MiB | `native/linux/arm64` |
-| [nika-linux-x64-0.118.7.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.118.7/nika-linux-x64-0.118.7.tar.gz) | 17.1 MiB | `native/unknown` |
-| [nika-macos-arm64-0.118.7.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.118.7/nika-macos-arm64-0.118.7.tar.gz) | 14.2 MiB | `native/darwin/arm64` |
-| [nika-macos-x64-0.118.7.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.118.7/nika-macos-x64-0.118.7.tar.gz) | 16.1 MiB | `native/darwin/x64` |
-| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.118.7/SHA256SUMS) | 388 B | `other` |
-| [supernovae-st-nika-check-wasm-0.118.7.tgz](https://github.com/supernovae-st/nika/releases/download/v0.118.7/supernovae-st-nika-check-wasm-0.118.7.tgz) | 1.3 MiB | `native/unknown` |
-| [supernovae-st-nika-check-wasm-0.118.7.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.118.7/supernovae-st-nika-check-wasm-0.118.7.tgz.sha256) | 108 B | `other` |
+| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.119.0/multiple.intoto.jsonl) | 24.2 KiB | `other` |
+| [nika-linux-arm64-0.119.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.119.0/nika-linux-arm64-0.119.0.tar.gz) | 16.0 MiB | `native/linux/arm64` |
+| [nika-linux-x64-0.119.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.119.0/nika-linux-x64-0.119.0.tar.gz) | 17.4 MiB | `native/unknown` |
+| [nika-macos-arm64-0.119.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.119.0/nika-macos-arm64-0.119.0.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
+| [nika-macos-x64-0.119.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.119.0/nika-macos-x64-0.119.0.tar.gz) | 16.3 MiB | `native/darwin/x64` |
+| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.119.0/SHA256SUMS) | 388 B | `other` |
+| [supernovae-st-nika-check-wasm-0.119.0.tgz](https://github.com/supernovae-st/nika/releases/download/v0.119.0/supernovae-st-nika-check-wasm-0.119.0.tgz) | 1.3 MiB | `native/unknown` |
+| [supernovae-st-nika-check-wasm-0.119.0.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.119.0/supernovae-st-nika-check-wasm-0.119.0.tgz.sha256) | 108 B | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:23:39Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:46:03Z._
