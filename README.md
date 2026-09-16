@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 78 · **Forks**: 4 · **Open issues**: 372 · **Contributors**: 2
+- **Stars**: 78 · **Forks**: 4 · **Open issues**: 397 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 1063 · **Open PRs**: 2 · **Closed issues**: 283 · **Open issues**: 89 · **Commits**: 2456
+- **Releases**: 41 · **Merged PRs**: 1063 · **Open PRs**: 2 · **Closed issues**: 283 · **Open issues**: 114 · **Commits**: 2456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 14 | 317 | 2 | 179 | 78 | 263 |
-| last60d | 2026-07-17 | 22 | 591 | 2 | 203 | 86 | 888 |
-| 90d | 2026-06-17 | 41 | 969 | 2 | 275 | 89 | 1444 |
-| last180d | 2026-03-19 | 41 | 990 | 2 | 283 | 89 | 2417 |
-| 360d | 2025-09-20 | 41 | 1063 | 2 | 283 | 89 | 2417 |
-| last720d | 2024-09-25 | 41 | 1063 | 2 | 283 | 89 | 2456 |
+| 30d | 2026-08-17 | 14 | 317 | 2 | 179 | 103 | 263 |
+| last60d | 2026-07-18 | 21 | 590 | 2 | 202 | 111 | 888 |
+| 90d | 2026-06-18 | 41 | 969 | 2 | 274 | 114 | 1444 |
+| last180d | 2026-03-20 | 41 | 983 | 2 | 283 | 114 | 2417 |
+| 360d | 2025-09-21 | 41 | 1063 | 2 | 283 | 114 | 2417 |
+| last720d | 2024-09-26 | 41 | 1063 | 2 | 283 | 114 | 2456 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:45:01Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:36:27Z._
