@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23975,
       "digest": "sha256:272d7af44b3e17f9544e17bea572ae81594ffdc6ba96354cbc7d1ad89d27c3b6",
-      "download_count": 5,
+      "download_count": 15,
       "created_at": "2026-09-20T10:12:22Z",
       "updated_at": "2026-09-20T10:12:22Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.120.3/multiple.intoto.jsonl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17350293,
       "digest": "sha256:e5926b29f620f0e139876a54f6cef8a46613464a98dbc62fa1cdc6e37c903f61",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-20T10:12:07Z",
       "updated_at": "2026-09-20T10:12:08Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-linux-arm64-0.120.3.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18840795,
       "digest": "sha256:3ffdee4e52c1c5a3eef0a90567af0a57bf387f64274175ecabce64c3924cd987",
-      "download_count": 45,
+      "download_count": 80,
       "created_at": "2026-09-20T10:12:12Z",
       "updated_at": "2026-09-20T10:12:13Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-linux-x64-0.120.3.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15712357,
       "digest": "sha256:649617890b985df69d06f63bce949394fdbd3cdaeae6709dc6835714428c54be",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-09-20T10:11:56Z",
       "updated_at": "2026-09-20T10:11:57Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-macos-arm64-0.120.3.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17759283,
       "digest": "sha256:b821a798bb821db693a26e408640969570eaa3db34a021cb84e7b7cf6a30e5da",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-20T10:12:01Z",
       "updated_at": "2026-09-20T10:12:04Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-macos-x64-0.120.3.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:4093ff80009509da085b1d6a2e179d4fca71c6a1bf4972045fbfb64bc421ff4f",
-      "download_count": 49,
+      "download_count": 84,
       "created_at": "2026-09-20T10:12:17Z",
       "updated_at": "2026-09-20T10:12:17Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.120.3/SHA256SUMS"
