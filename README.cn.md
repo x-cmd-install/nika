@@ -4,7 +4,7 @@
 
 Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
 
-[![x-cmd/install — nika Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nika.svg?lang=zh)](https://x-cmd.com/install/nika)
+[![x-cmd/install — nika Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nika.svg?lang=zh)](https://x-cmd.com/install/nika)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install nika
 
 ## 流行度
 
-- **Star**: 88 · **Fork**: 5 · **开放 issue**: 430 · **贡献者**: 2
+- **Star**: 89 · **Fork**: 5 · **开放 issue**: 431 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 1099 · **开放 PR**: 5 · **已关闭 issue**: 294 · **开放 issue**: 136 · **提交数**: 2492
+- **发布数**: 45 · **已合并 PR**: 1099 · **开放 PR**: 6 · **已关闭 issue**: 294 · **开放 issue**: 137 · **提交数**: 2492
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 11 | 210 | 5 | 164 | 125 | 172 |
-| last60d | 2026-07-24 | 24 | 534 | 5 | 209 | 128 | 832 |
-| 90d | 2026-06-24 | 44 | 1004 | 5 | 279 | 136 | 1435 |
-| last180d | 2026-03-26 | 45 | 1018 | 5 | 294 | 136 | 2453 |
-| 360d | 2025-09-27 | 45 | 1099 | 5 | 294 | 136 | 2453 |
-| last720d | 2024-10-02 | 45 | 1099 | 5 | 294 | 136 | 2492 |
+| 30d | 2026-08-24 | 10 | 201 | 6 | 143 | 125 | 172 |
+| last60d | 2026-07-25 | 24 | 528 | 6 | 209 | 129 | 832 |
+| 90d | 2026-06-25 | 44 | 1003 | 6 | 278 | 137 | 1435 |
+| last180d | 2026-03-27 | 45 | 1018 | 6 | 294 | 137 | 2453 |
+| 360d | 2025-09-28 | 45 | 1099 | 6 | 294 | 137 | 2453 |
+| last720d | 2024-10-03 | 45 | 1099 | 6 | 294 | 137 | 2492 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:37:25Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:50:37Z._

@@ -4,7 +4,7 @@
 
 Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
 
-[![x-cmd/install — nika Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nika.svg)](https://x-cmd.com/install/nika)
+[![x-cmd/install — nika Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nika.svg)](https://x-cmd.com/install/nika)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 88 · **Forks**: 5 · **Open issues**: 430 · **Contributors**: 2
+- **Stars**: 89 · **Forks**: 5 · **Open issues**: 431 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1099 · **Open PRs**: 5 · **Closed issues**: 294 · **Open issues**: 136 · **Commits**: 2492
+- **Releases**: 45 · **Merged PRs**: 1099 · **Open PRs**: 6 · **Closed issues**: 294 · **Open issues**: 137 · **Commits**: 2492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 11 | 210 | 5 | 164 | 125 | 172 |
-| last60d | 2026-07-24 | 24 | 534 | 5 | 209 | 128 | 832 |
-| 90d | 2026-06-24 | 44 | 1004 | 5 | 279 | 136 | 1435 |
-| last180d | 2026-03-26 | 45 | 1018 | 5 | 294 | 136 | 2453 |
-| 360d | 2025-09-27 | 45 | 1099 | 5 | 294 | 136 | 2453 |
-| last720d | 2024-10-02 | 45 | 1099 | 5 | 294 | 136 | 2492 |
+| 30d | 2026-08-24 | 10 | 201 | 6 | 143 | 125 | 172 |
+| last60d | 2026-07-25 | 24 | 528 | 6 | 209 | 129 | 832 |
+| 90d | 2026-06-25 | 44 | 1003 | 6 | 278 | 137 | 1435 |
+| last180d | 2026-03-27 | 45 | 1018 | 6 | 294 | 137 | 2453 |
+| 360d | 2025-09-28 | 45 | 1099 | 6 | 294 | 137 | 2453 |
+| last720d | 2024-10-03 | 45 | 1099 | 6 | 294 | 137 | 2492 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:37:24Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:50:36Z._
