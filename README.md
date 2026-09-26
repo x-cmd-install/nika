@@ -14,15 +14,15 @@ x install nika
 
 ## Code insight
 
-Total: **532,482** lines of code across **1743** files in the top 5 languages.
+Total: **606,999** lines of code across **2003** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 423,781 | 25,056 | 32,511 | 1348 |
-| Json | 62,890 | 0 | 0 | 100 |
-| Toml | 15,615 | 1,749 | 2,259 | 97 |
-| Sh | 13,285 | 5,074 | 1,635 | 171 |
-| Python | 8,520 | 387 | 925 | 27 |
+| Rust | 491,183 | 26,908 | 35,839 | 1577 |
+| Json | 69,028 | 0 | 0 | 127 |
+| Toml | 16,520 | 1,792 | 2,358 | 100 |
+| Sh | 13,317 | 5,090 | 1,646 | 171 |
+| Python | 8,558 | 389 | 933 | 28 |
 
 ## OpenSSF Scorecard
 
@@ -42,41 +42,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.120.3` (2026-09-20)
-- **Last commit**: 2026-09-21
+- **Latest**: `v0.121.0` (2026-09-25)
+- **Last commit**: 2026-09-25
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 89 · **Forks**: 5 · **Open issues**: 431 · **Contributors**: 2
+- **Stars**: 89 · **Forks**: 5 · **Open issues**: 438 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1099 · **Open PRs**: 6 · **Closed issues**: 295 · **Open issues**: 136 · **Commits**: 2492
+- **Releases**: 46 · **Merged PRs**: 1100 · **Open PRs**: 2 · **Closed issues**: 297 · **Open issues**: 141 · **Commits**: 2493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 10 | 173 | 6 | 113 | 114 | 172 |
-| last60d | 2026-07-27 | 24 | 527 | 6 | 210 | 128 | 832 |
-| 90d | 2026-06-27 | 43 | 1003 | 6 | 277 | 136 | 1435 |
-| last180d | 2026-03-29 | 45 | 1018 | 6 | 295 | 136 | 2453 |
-| 360d | 2025-09-30 | 45 | 1099 | 6 | 295 | 136 | 2453 |
-| last720d | 2024-10-05 | 45 | 1099 | 6 | 295 | 136 | 2492 |
+| 30d | 2026-08-27 | 10 | 172 | 2 | 114 | 119 | 173 |
+| last60d | 2026-07-28 | 24 | 524 | 2 | 212 | 133 | 833 |
+| 90d | 2026-06-28 | 44 | 1003 | 2 | 278 | 141 | 1436 |
+| last180d | 2026-03-30 | 46 | 1019 | 2 | 297 | 141 | 2454 |
+| 360d | 2025-10-01 | 46 | 1100 | 2 | 297 | 141 | 2454 |
+| last720d | 2024-10-06 | 46 | 1100 | 2 | 297 | 141 | 2493 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.120.3/multiple.intoto.jsonl) | 23.4 KiB | `other` |
-| [nika-linux-arm64-0.120.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-linux-arm64-0.120.3.tar.gz) | 16.5 MiB | `native/linux/arm64` |
-| [nika-linux-x64-0.120.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-linux-x64-0.120.3.tar.gz) | 18.0 MiB | `native/unknown` |
-| [nika-macos-arm64-0.120.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-macos-arm64-0.120.3.tar.gz) | 15.0 MiB | `native/darwin/arm64` |
-| [nika-macos-x64-0.120.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.120.3/nika-macos-x64-0.120.3.tar.gz) | 16.9 MiB | `native/darwin/x64` |
-| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.120.3/SHA256SUMS) | 388 B | `other` |
-| [supernovae-st-nika-check-wasm-0.120.3.tgz](https://github.com/supernovae-st/nika/releases/download/v0.120.3/supernovae-st-nika-check-wasm-0.120.3.tgz) | 1.2 MiB | `native/unknown` |
-| [supernovae-st-nika-check-wasm-0.120.3.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.120.3/supernovae-st-nika-check-wasm-0.120.3.tgz.sha256) | 108 B | `other` |
+| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.121.0/multiple.intoto.jsonl) | 110.9 KiB | `other` |
+| [nika-linux-arm64-0.121.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.121.0/nika-linux-arm64-0.121.0.tar.gz) | 19.4 MiB | `native/linux/arm64` |
+| [nika-linux-x64-0.121.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.121.0/nika-linux-x64-0.121.0.tar.gz) | 21.0 MiB | `native/unknown` |
+| [nika-macos-arm64-0.121.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.121.0/nika-macos-arm64-0.121.0.tar.gz) | 17.7 MiB | `native/darwin/arm64` |
+| [nika-macos-x64-0.121.0.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.121.0/nika-macos-x64-0.121.0.tar.gz) | 20.0 MiB | `native/darwin/x64` |
+| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.121.0/SHA256SUMS) | 388 B | `other` |
+| [supernovae-st-nika-check-wasm-0.121.0.tgz](https://github.com/supernovae-st/nika/releases/download/v0.121.0/supernovae-st-nika-check-wasm-0.121.0.tgz) | 1.3 MiB | `native/unknown` |
+| [supernovae-st-nika-check-wasm-0.121.0.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.121.0/supernovae-st-nika-check-wasm-0.121.0.tgz.sha256) | 108 B | `other` |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:16:34Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:11:18Z._
