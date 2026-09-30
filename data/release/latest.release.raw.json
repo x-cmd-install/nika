@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 20305546,
       "digest": "sha256:b0f4a2e183b0a0d2e50c572886d1a05d8dbc1d6e2fc23982ba8f3e342c6711e7",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-25T12:54:53Z",
       "updated_at": "2026-09-25T12:54:55Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.121.0/nika-linux-arm64-0.121.0.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22037871,
       "digest": "sha256:e197eefef46ba5c1c2ec2abdc707dfbdfeef60994561267fe0c6ee9dc8573046",
-      "download_count": 172,
+      "download_count": 199,
       "created_at": "2026-09-25T12:54:58Z",
       "updated_at": "2026-09-25T12:54:59Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.121.0/nika-linux-x64-0.121.0.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:42bf0dce1bd4832f09c037970aa520f06c533190ab3727cc61ba9222d6736898",
-      "download_count": 174,
+      "download_count": 198,
       "created_at": "2026-09-25T12:55:03Z",
       "updated_at": "2026-09-25T12:55:03Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.121.0/SHA256SUMS"
