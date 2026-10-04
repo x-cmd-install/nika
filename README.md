@@ -14,13 +14,13 @@ x install nika
 
 ## Code insight
 
-Total: **731,808** lines of code across **2553** files in the top 5 languages.
+Total: **744,657** lines of code across **2583** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 594,159 | 28,987 | 42,430 | 1883 |
-| Json | 78,950 | 0 | 0 | 337 |
-| Toml | 16,611 | 1,823 | 2,365 | 101 |
+| Rust | 606,959 | 29,149 | 43,152 | 1912 |
+| Json | 78,966 | 0 | 0 | 337 |
+| Toml | 16,644 | 1,834 | 2,369 | 102 |
 | Sh | 14,366 | 5,437 | 1,746 | 180 |
 | JavaScript | 11,756 | 1,126 | 572 | 52 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.122.0` (2026-10-02)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-03
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 90 · **Forks**: 5 · **Open issues**: 441 · **Contributors**: 2
+- **Stars**: 91 · **Forks**: 5 · **Open issues**: 442 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 1108 · **Open PRs**: 5 · **Closed issues**: 299 · **Open issues**: 142 · **Commits**: 2501
+- **Releases**: 47 · **Merged PRs**: 1110 · **Open PRs**: 6 · **Closed issues**: 299 · **Open issues**: 143 · **Commits**: 2503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 9 | 125 | 5 | 34 | 114 | 128 |
-| last60d | 2026-08-04 | 21 | 458 | 5 | 202 | 134 | 482 |
-| 90d | 2026-07-05 | 44 | 978 | 5 | 278 | 142 | 1358 |
-| last180d | 2026-04-06 | 47 | 1026 | 5 | 299 | 142 | 2462 |
-| 360d | 2025-10-08 | 47 | 1108 | 5 | 299 | 142 | 2462 |
-| last720d | 2024-10-13 | 47 | 1108 | 5 | 299 | 142 | 2501 |
+| 30d | 2026-09-04 | 9 | 116 | 6 | 26 | 109 | 76 |
+| last60d | 2026-08-05 | 21 | 455 | 6 | 202 | 135 | 427 |
+| 90d | 2026-07-06 | 42 | 924 | 6 | 278 | 143 | 1053 |
+| last180d | 2026-04-07 | 47 | 1028 | 6 | 299 | 143 | 2447 |
+| 360d | 2025-10-09 | 47 | 1110 | 6 | 299 | 143 | 2464 |
+| last720d | 2024-10-14 | 47 | 1110 | 6 | 299 | 143 | 2503 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:33:25Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T07:08:11Z._
