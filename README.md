@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 7 | 95 | 6 | 26 | 108 | 76 |
-| last60d | 2026-08-07 | 20 | 435 | 6 | 202 | 133 | 427 |
-| 90d | 2026-07-08 | 34 | 851 | 6 | 274 | 142 | 1053 |
-| last180d | 2026-04-09 | 47 | 1027 | 6 | 299 | 142 | 2447 |
-| 360d | 2025-10-11 | 47 | 1110 | 6 | 299 | 142 | 2464 |
-| last720d | 2024-10-16 | 47 | 1110 | 6 | 299 | 142 | 2503 |
+| 30d | 2026-09-07 | 7 | 85 | 6 | 20 | 106 | 76 |
+| last60d | 2026-08-08 | 20 | 428 | 6 | 202 | 133 | 427 |
+| 90d | 2026-07-09 | 33 | 826 | 6 | 260 | 142 | 1053 |
+| last180d | 2026-04-10 | 47 | 1027 | 6 | 299 | 142 | 2447 |
+| 360d | 2025-10-12 | 47 | 1110 | 6 | 299 | 142 | 2464 |
+| last720d | 2024-10-17 | 47 | 1110 | 6 | 299 | 142 | 2503 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:51:14Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:18:39Z._
