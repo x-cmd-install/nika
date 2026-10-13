@@ -14,14 +14,14 @@ x install nika
 
 ## Code insight
 
-Total: **934,423** lines of code across **3270** files in the top 5 languages.
+Total: **935,112** lines of code across **3274** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 791,685 | 33,179 | 54,946 | 2507 |
-| Json | 83,350 | 0 | 0 | 417 |
-| Toml | 17,098 | 2,018 | 2,432 | 112 |
-| Sh | 14,523 | 5,476 | 1,754 | 182 |
+| Rust | 792,113 | 33,188 | 54,962 | 2507 |
+| Json | 83,367 | 0 | 0 | 417 |
+| Toml | 17,106 | 2,018 | 2,433 | 112 |
+| Sh | 14,726 | 5,553 | 1,779 | 186 |
 | JavaScript | 11,756 | 1,126 | 572 | 52 |
 
 ## OpenSSF Scorecard
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 93 · **Forks**: 5 · **Open issues**: 442 · **Contributors**: 2
+- **Stars**: 94 · **Forks**: 5 · **Open issues**: 444 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1125 · **Open PRs**: 9 · **Closed issues**: 299 · **Open issues**: 143 · **Commits**: 2518
+- **Releases**: 48 · **Merged PRs**: 1128 · **Open PRs**: 8 · **Closed issues**: 299 · **Open issues**: 145 · **Commits**: 2521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 8 | 66 | 9 | 15 | 107 | 62 |
-| last60d | 2026-08-13 | 21 | 408 | 9 | 196 | 132 | 376 |
-| 90d | 2026-07-14 | 29 | 660 | 9 | 222 | 140 | 989 |
-| last180d | 2026-04-15 | 48 | 1042 | 9 | 299 | 143 | 2188 |
-| 360d | 2025-10-17 | 48 | 1125 | 9 | 299 | 143 | 2479 |
-| last720d | 2024-10-22 | 48 | 1125 | 9 | 299 | 143 | 2518 |
+| 30d | 2026-09-13 | 8 | 64 | 8 | 11 | 78 | 65 |
+| last60d | 2026-08-14 | 21 | 395 | 8 | 196 | 134 | 379 |
+| 90d | 2026-07-15 | 29 | 659 | 8 | 221 | 142 | 992 |
+| last180d | 2026-04-16 | 48 | 1045 | 8 | 299 | 145 | 2191 |
+| 360d | 2025-10-18 | 48 | 1128 | 8 | 299 | 145 | 2482 |
+| last720d | 2024-10-23 | 48 | 1128 | 8 | 299 | 145 | 2521 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:30:42Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:16:45Z._
