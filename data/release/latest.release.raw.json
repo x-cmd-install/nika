@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 24256979,
       "digest": "sha256:d9b6b84f7acedd0c6a1ed1830b4f6866106f634e72ac7cec61134382e56334f7",
-      "download_count": 361,
+      "download_count": 389,
       "created_at": "2026-10-02T23:35:31Z",
       "updated_at": "2026-10-02T23:35:32Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.122.0/nika-linux-x64-0.122.0.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20489228,
       "digest": "sha256:3e7de00024732de9616261ecd8b51686f1f48a86ae5e51614e1415649462c540",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-10-02T23:35:23Z",
       "updated_at": "2026-10-02T23:35:23Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.122.0/nika-macos-arm64-0.122.0.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:36b2a6d8307f0889f7429df488e35410eb7b6ea77b075fd156ca91999da2487f",
-      "download_count": 370,
+      "download_count": 398,
       "created_at": "2026-10-02T23:35:34Z",
       "updated_at": "2026-10-02T23:35:35Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.122.0/SHA256SUMS"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1313380,
       "digest": "sha256:10bd17f08cb6d6e885d5a84c0a07e2e192ce7bc4c93bce5549533eed0965e39c",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-02T23:35:39Z",
       "updated_at": "2026-10-02T23:35:39Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.122.0/supernovae-st-nika-check-wasm-0.122.0.tgz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:ad7ab67eb5de5b2408bf6433e781c7a782b29a3f5ab40c75ea877f2b98d102fc",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-02T23:35:41Z",
       "updated_at": "2026-10-02T23:35:41Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.122.0/supernovae-st-nika-check-wasm-0.122.0.tgz.sha256"
