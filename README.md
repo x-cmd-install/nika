@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 11 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 94 · **Forks**: 5 · **Open issues**: 445 · **Contributors**: 2
+- **Stars**: 94 · **Forks**: 5 · **Open issues**: 446 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1132 · **Open PRs**: 8 · **Closed issues**: 301 · **Open issues**: 144 · **Commits**: 2525
+- **Releases**: 48 · **Merged PRs**: 1132 · **Open PRs**: 8 · **Closed issues**: 301 · **Open issues**: 145 · **Commits**: 2525
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 7 | 68 | 7 | 7 | 33 | 69 |
-| last60d | 2026-08-17 | 21 | 386 | 8 | 197 | 133 | 383 |
-| 90d | 2026-07-18 | 28 | 659 | 8 | 220 | 141 | 996 |
-| last180d | 2026-04-19 | 48 | 1049 | 8 | 301 | 144 | 2195 |
-| 360d | 2025-10-21 | 48 | 1132 | 8 | 301 | 144 | 2486 |
-| last720d | 2024-10-26 | 48 | 1132 | 8 | 301 | 144 | 2525 |
+| 30d | 2026-09-17 | 7 | 68 | 7 | 6 | 22 | 69 |
+| last60d | 2026-08-18 | 21 | 365 | 8 | 197 | 134 | 383 |
+| 90d | 2026-07-19 | 28 | 639 | 8 | 220 | 142 | 996 |
+| last180d | 2026-04-20 | 48 | 1049 | 8 | 301 | 145 | 2195 |
+| 360d | 2025-10-22 | 48 | 1132 | 8 | 301 | 145 | 2486 |
+| last720d | 2024-10-27 | 48 | 1132 | 8 | 301 | 145 | 2525 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:52:34Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:35:51Z._
