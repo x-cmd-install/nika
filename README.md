@@ -14,11 +14,11 @@ x install nika
 
 ## Code insight
 
-Total: **1,041,341** lines of code across **3548** files in the top 5 languages.
+Total: **1,042,842** lines of code across **3548** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 895,818 | 35,648 | 60,761 | 2764 |
+| Rust | 897,319 | 35,688 | 60,819 | 2764 |
 | Json | 84,281 | 0 | 0 | 429 |
 | Toml | 18,350 | 2,215 | 2,533 | 116 |
 | Sh | 14,727 | 5,578 | 1,779 | 187 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1133 · **Open PRs**: 8 · **Closed issues**: 301 · **Open issues**: 145 · **Commits**: 2526
+- **Releases**: 48 · **Merged PRs**: 1137 · **Open PRs**: 8 · **Closed issues**: 301 · **Open issues**: 145 · **Commits**: 2530
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 4 | 41 | 6 | 4 | 13 | 34 |
-| last60d | 2026-08-21 | 15 | 293 | 8 | 173 | 134 | 215 |
-| 90d | 2026-07-22 | 27 | 593 | 8 | 216 | 137 | 914 |
-| last180d | 2026-04-23 | 48 | 1050 | 8 | 301 | 145 | 2196 |
-| 360d | 2025-10-25 | 48 | 1133 | 8 | 301 | 145 | 2487 |
-| last720d | 2024-10-30 | 48 | 1133 | 8 | 301 | 145 | 2526 |
+| 30d | 2026-09-21 | 3 | 38 | 6 | 3 | 13 | 38 |
+| last60d | 2026-08-22 | 14 | 278 | 8 | 171 | 134 | 219 |
+| 90d | 2026-07-23 | 27 | 584 | 8 | 216 | 137 | 918 |
+| last180d | 2026-04-24 | 48 | 1054 | 8 | 301 | 145 | 2200 |
+| 360d | 2025-10-26 | 48 | 1137 | 8 | 301 | 145 | 2491 |
+| last720d | 2024-10-31 | 48 | 1137 | 8 | 301 | 145 | 2530 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T06:05:18Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:57:59Z._
