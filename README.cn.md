@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+Intent as Code: say what you want done, keep it as a file. Checked before it runs, run with the model you choose, proven afterwards. Rust engine, CLI/TUI and TypeScript SDK. AGPL-3.0 🦋
 
 [![x-cmd/install — nika Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nika.svg?lang=zh)](https://x-cmd.com/install/nika)
 
@@ -14,25 +14,25 @@ x install nika
 
 ## 代码洞察
 
-合计: **1,046,366** 行代码（覆盖前 5 种语言、共 **3560** 个文件）。
+合计: **1,048,315** 行代码（覆盖前 5 种语言、共 **3567** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 900,842 | 36,021 | 61,074 | 2776 |
-| Json | 84,281 | 0 | 0 | 429 |
+| Rust | 901,443 | 36,061 | 61,105 | 2776 |
+| Json | 84,494 | 0 | 0 | 432 |
 | Toml | 18,351 | 2,215 | 2,533 | 116 |
-| Sh | 14,727 | 5,578 | 1,779 | 187 |
-| JavaScript | 11,756 | 1,126 | 572 | 52 |
+| Sh | 14,729 | 5,581 | 1,779 | 187 |
+| JavaScript | 12,871 | 1,332 | 628 | 56 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.6 / 10**
+总评分: **7.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 27 existing vulnerabilities detected
+- **Vulnerabilities** (1/10) — 9 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install nika
 ## 发布
 
 - **最新版本**: `v0.123.0` (2026-10-23)
-- **最近提交**: 2026-10-23
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install nika
 
 ## 累计统计
 
-- **发布数**: 49 · **已合并 PR**: 1139 · **开放 PR**: 8 · **已关闭 issue**: 302 · **开放 issue**: 144 · **提交数**: 2532
+- **发布数**: 49 · **已合并 PR**: 1145 · **开放 PR**: 3 · **已关闭 issue**: 305 · **开放 issue**: 141 · **提交数**: 2538
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 4 | 40 | 7 | 3 | 12 | 40 |
-| last60d | 2026-08-25 | 14 | 220 | 8 | 136 | 127 | 221 |
-| 90d | 2026-07-26 | 28 | 568 | 8 | 217 | 136 | 920 |
-| last180d | 2026-04-27 | 49 | 1056 | 8 | 302 | 144 | 2202 |
-| 360d | 2025-10-29 | 49 | 1139 | 8 | 302 | 144 | 2493 |
-| last720d | 2024-11-03 | 49 | 1139 | 8 | 302 | 144 | 2532 |
+| 30d | 2026-09-25 | 4 | 45 | 2 | 3 | 5 | 41 |
+| last60d | 2026-08-26 | 14 | 219 | 3 | 123 | 119 | 199 |
+| 90d | 2026-07-27 | 28 | 573 | 3 | 220 | 133 | 552 |
+| last180d | 2026-04-28 | 49 | 1062 | 3 | 305 | 141 | 2208 |
+| 360d | 2025-10-30 | 49 | 1145 | 3 | 305 | 141 | 2499 |
+| last720d | 2024-11-04 | 49 | 1145 | 3 | 305 | 141 | 2538 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T05:54:51Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T05:50:43Z._
