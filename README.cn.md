@@ -30,9 +30,9 @@ x install nika
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/29 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 15 existing vulnerabilities detected
+- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install nika
 
 ## 发布
 
-- **最新版本**: `v0.124.3` (2026-11-10)
+- **最新版本**: `v0.124.4` (2026-11-12)
 - **最近提交**: 2026-11-12
 - **Release 含资产**: 8 个
 
@@ -52,31 +52,31 @@ x install nika
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 1186 · **开放 PR**: 4 · **已关闭 issue**: 423 · **开放 issue**: 25 · **提交数**: 2579
+- **发布数**: 56 · **已合并 PR**: 1187 · **开放 PR**: 4 · **已关闭 issue**: 424 · **开放 issue**: 24 · **提交数**: 2580
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 7 | 56 | 3 | 3 | 1 | 54 |
-| last60d | 2026-09-13 | 15 | 122 | 4 | 84 | 9 | 123 |
-| 90d | 2026-08-14 | 28 | 453 | 4 | 310 | 24 | 457 |
-| last180d | 2026-05-16 | 55 | 1103 | 4 | 423 | 25 | 2185 |
-| 360d | 2025-11-17 | 55 | 1186 | 4 | 423 | 25 | 2540 |
-| last720d | 2024-11-22 | 55 | 1186 | 4 | 423 | 25 | 2579 |
+| 30d | 2026-10-14 | 8 | 57 | 3 | 4 | 0 | 55 |
+| last60d | 2026-09-14 | 15 | 123 | 4 | 73 | 4 | 124 |
+| 90d | 2026-08-15 | 29 | 441 | 4 | 311 | 23 | 458 |
+| last180d | 2026-05-17 | 56 | 1104 | 4 | 424 | 24 | 2186 |
+| 360d | 2025-11-18 | 56 | 1187 | 4 | 424 | 24 | 2541 |
+| last720d | 2024-11-23 | 56 | 1187 | 4 | 424 | 24 | 2580 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.124.3/multiple.intoto.jsonl) | 25.3 KiB | `other` |
-| [nika-linux-arm64-0.124.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.3/nika-linux-arm64-0.124.3.tar.gz) | 31.6 MiB | `native/linux/arm64` |
-| [nika-linux-x64-0.124.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.3/nika-linux-x64-0.124.3.tar.gz) | 33.5 MiB | `native/unknown` |
-| [nika-macos-arm64-0.124.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.3/nika-macos-arm64-0.124.3.tar.gz) | 28.6 MiB | `native/darwin/arm64` |
-| [nika-macos-x64-0.124.3.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.3/nika-macos-x64-0.124.3.tar.gz) | 32.5 MiB | `native/darwin/x64` |
-| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.124.3/SHA256SUMS) | 388 B | `other` |
-| [supernovae-st-nika-check-wasm-0.124.3.tgz](https://github.com/supernovae-st/nika/releases/download/v0.124.3/supernovae-st-nika-check-wasm-0.124.3.tgz) | 1.3 MiB | `native/unknown` |
-| [supernovae-st-nika-check-wasm-0.124.3.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.124.3/supernovae-st-nika-check-wasm-0.124.3.tgz.sha256) | 108 B | `other` |
+| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.124.4/multiple.intoto.jsonl) | 25.3 KiB | `other` |
+| [nika-linux-arm64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-linux-arm64-0.124.4.tar.gz) | 31.6 MiB | `native/linux/arm64` |
+| [nika-linux-x64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-linux-x64-0.124.4.tar.gz) | 33.6 MiB | `native/unknown` |
+| [nika-macos-arm64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-macos-arm64-0.124.4.tar.gz) | 28.7 MiB | `native/darwin/arm64` |
+| [nika-macos-x64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-macos-x64-0.124.4.tar.gz) | 32.6 MiB | `native/darwin/x64` |
+| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.124.4/SHA256SUMS) | 388 B | `other` |
+| [supernovae-st-nika-check-wasm-0.124.4.tgz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/supernovae-st-nika-check-wasm-0.124.4.tgz) | 1.3 MiB | `native/unknown` |
+| [supernovae-st-nika-check-wasm-0.124.4.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.124.4/supernovae-st-nika-check-wasm-0.124.4.tgz.sha256) | 108 B | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T09:17:59Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T08:19:11Z._
