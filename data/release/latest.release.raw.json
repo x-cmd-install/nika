@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 35184788,
       "digest": "sha256:4ff918bf0b7ebe33f9661740546579b4cef7c330a2d3c60c689013eaa592437e",
-      "download_count": 71,
+      "download_count": 100,
       "created_at": "2026-11-12T09:54:40Z",
       "updated_at": "2026-11-12T09:54:42Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-linux-x64-0.124.4.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30066407,
       "digest": "sha256:fc2217fb274fff16244c63ccba1b0b1ecaa2ed77ec3f11643a27b9bfde33ec68",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-11-12T09:54:25Z",
       "updated_at": "2026-11-12T09:54:27Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-macos-arm64-0.124.4.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 34140377,
       "digest": "sha256:3df0a84b3b3d156ca6a9973f2f75baf54fa271b69b385699a7c4fc9fefcfef78",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-12T09:54:30Z",
       "updated_at": "2026-11-12T09:54:32Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-macos-x64-0.124.4.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:601985cc3e28b675153206820b962bcffb51fbe1d9bc1cff3b7e9de7e2ab86ef",
-      "download_count": 67,
+      "download_count": 96,
       "created_at": "2026-11-12T09:54:46Z",
       "updated_at": "2026-11-12T09:54:46Z",
       "browser_download_url": "https://github.com/supernovae-st/nika/releases/download/v0.124.4/SHA256SUMS"
