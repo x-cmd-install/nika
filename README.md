@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
+- **Vulnerabilities** (0/10) — 18 existing vulnerabilities detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 100 · **Forks**: 6 · **Open issues**: 448 · **Contributors**: 3
+- **Stars**: 100 · **Forks**: 6 · **Open issues**: 449 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 1187 · **Open PRs**: 4 · **Closed issues**: 424 · **Open issues**: 24 · **Commits**: 2580
+- **Releases**: 56 · **Merged PRs**: 1187 · **Open PRs**: 4 · **Closed issues**: 424 · **Open issues**: 25 · **Commits**: 2580
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 8 | 57 | 3 | 4 | 0 | 55 |
-| last60d | 2026-09-14 | 15 | 123 | 4 | 73 | 4 | 124 |
-| 90d | 2026-08-15 | 29 | 441 | 4 | 311 | 23 | 458 |
-| last180d | 2026-05-17 | 56 | 1104 | 4 | 424 | 24 | 2186 |
-| 360d | 2025-11-18 | 56 | 1187 | 4 | 424 | 24 | 2541 |
-| last720d | 2024-11-23 | 56 | 1187 | 4 | 424 | 24 | 2580 |
+| 30d | 2026-10-15 | 8 | 54 | 3 | 3 | 1 | 0 |
+| last60d | 2026-09-15 | 15 | 123 | 4 | 48 | 4 | 0 |
+| 90d | 2026-08-16 | 29 | 441 | 4 | 310 | 24 | 0 |
+| last180d | 2026-05-18 | 56 | 1104 | 4 | 424 | 25 | 0 |
+| 360d | 2025-11-19 | 56 | 1187 | 4 | 424 | 25 | 0 |
+| last720d | 2024-11-24 | 56 | 1187 | 4 | 424 | 25 | 2580 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:19:10Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:23:26Z._

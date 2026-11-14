@@ -32,7 +32,7 @@ x install nika
 
 - **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
+- **Vulnerabilities** (0/10) — 18 existing vulnerabilities detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install nika
 
 ## 流行度
 
-- **Star**: 100 · **Fork**: 6 · **开放 issue**: 448 · **贡献者**: 3
+- **Star**: 100 · **Fork**: 6 · **开放 issue**: 449 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 1187 · **开放 PR**: 4 · **已关闭 issue**: 424 · **开放 issue**: 24 · **提交数**: 2580
+- **发布数**: 56 · **已合并 PR**: 1187 · **开放 PR**: 4 · **已关闭 issue**: 424 · **开放 issue**: 25 · **提交数**: 2580
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 8 | 57 | 3 | 4 | 0 | 55 |
-| last60d | 2026-09-14 | 15 | 123 | 4 | 73 | 4 | 124 |
-| 90d | 2026-08-15 | 29 | 441 | 4 | 311 | 23 | 458 |
-| last180d | 2026-05-17 | 56 | 1104 | 4 | 424 | 24 | 2186 |
-| 360d | 2025-11-18 | 56 | 1187 | 4 | 424 | 24 | 2541 |
-| last720d | 2024-11-23 | 56 | 1187 | 4 | 424 | 24 | 2580 |
+| 30d | 2026-10-15 | 8 | 54 | 3 | 3 | 1 | 0 |
+| last60d | 2026-09-15 | 15 | 123 | 4 | 48 | 4 | 0 |
+| 90d | 2026-08-16 | 29 | 441 | 4 | 310 | 24 | 0 |
+| last180d | 2026-05-18 | 56 | 1104 | 4 | 424 | 25 | 0 |
+| 360d | 2025-11-19 | 56 | 1187 | 4 | 424 | 25 | 0 |
+| last720d | 2024-11-24 | 56 | 1187 | 4 | 424 | 25 | 2580 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T08:19:11Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T08:23:27Z._
