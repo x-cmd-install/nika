@@ -32,7 +32,7 @@ x install nika
 
 - **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 18 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 15 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install nika
 ## 发布
 
 - **最新版本**: `v0.124.4` (2026-11-12)
-- **最近提交**: 2026-11-12
+- **最近提交**: 2026-11-14
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install nika
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 1187 · **开放 PR**: 4 · **已关闭 issue**: 424 · **开放 issue**: 25 · **提交数**: 2580
+- **发布数**: 56 · **已合并 PR**: 1188 · **开放 PR**: 4 · **已关闭 issue**: 425 · **开放 issue**: 24 · **提交数**: 2581
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 8 | 54 | 3 | 3 | 1 | 0 |
-| last60d | 2026-09-15 | 15 | 123 | 4 | 48 | 4 | 0 |
-| 90d | 2026-08-16 | 29 | 441 | 4 | 310 | 24 | 0 |
-| last180d | 2026-05-18 | 56 | 1104 | 4 | 424 | 25 | 0 |
-| 360d | 2025-11-19 | 56 | 1187 | 4 | 424 | 25 | 0 |
-| last720d | 2024-11-24 | 56 | 1187 | 4 | 424 | 25 | 2580 |
+| 30d | 2026-10-16 | 8 | 55 | 3 | 4 | 0 | 51 |
+| last60d | 2026-09-16 | 15 | 124 | 4 | 43 | 1 | 89 |
+| 90d | 2026-08-17 | 29 | 442 | 4 | 311 | 23 | 315 |
+| last180d | 2026-05-19 | 56 | 1105 | 4 | 425 | 24 | 2158 |
+| 360d | 2025-11-20 | 56 | 1188 | 4 | 425 | 24 | 2542 |
+| last720d | 2024-11-25 | 56 | 1188 | 4 | 425 | 24 | 2581 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261114.yml` · 2026-11-14T08:23:27Z._
+_数据快照: `data/card/261115.yml` · 2026-11-15T08:09:32Z._
