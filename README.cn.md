@@ -42,41 +42,41 @@ x install nika
 
 ## 发布
 
-- **最新版本**: `v0.124.4` (2026-11-12)
+- **最新版本**: `v0.124.5` (2026-11-20)
 - **最近提交**: 2026-11-20
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 100 · **Fork**: 6 · **开放 issue**: 450 · **贡献者**: 3
+- **Star**: 100 · **Fork**: 6 · **开放 issue**: 451 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 1190 · **开放 PR**: 6 · **已关闭 issue**: 425 · **开放 issue**: 25 · **提交数**: 2583
+- **发布数**: 57 · **已合并 PR**: 1191 · **开放 PR**: 5 · **已关闭 issue**: 425 · **开放 issue**: 26 · **提交数**: 2584
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 56 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 56 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-30 | 56 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-22 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 57 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 57 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-01 | 57 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.124.4/multiple.intoto.jsonl) | 25.3 KiB | `other` |
-| [nika-linux-arm64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-linux-arm64-0.124.4.tar.gz) | 31.6 MiB | `native/linux/arm64` |
-| [nika-linux-x64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-linux-x64-0.124.4.tar.gz) | 33.6 MiB | `native/unknown` |
-| [nika-macos-arm64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-macos-arm64-0.124.4.tar.gz) | 28.7 MiB | `native/darwin/arm64` |
-| [nika-macos-x64-0.124.4.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/nika-macos-x64-0.124.4.tar.gz) | 32.6 MiB | `native/darwin/x64` |
-| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.124.4/SHA256SUMS) | 388 B | `other` |
-| [supernovae-st-nika-check-wasm-0.124.4.tgz](https://github.com/supernovae-st/nika/releases/download/v0.124.4/supernovae-st-nika-check-wasm-0.124.4.tgz) | 1.3 MiB | `native/unknown` |
-| [supernovae-st-nika-check-wasm-0.124.4.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.124.4/supernovae-st-nika-check-wasm-0.124.4.tgz.sha256) | 108 B | `other` |
+| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.124.5/multiple.intoto.jsonl) | 25.6 KiB | `other` |
+| [nika-linux-arm64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-linux-arm64-0.124.5.tar.gz) | 31.6 MiB | `native/linux/arm64` |
+| [nika-linux-x64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-linux-x64-0.124.5.tar.gz) | 33.6 MiB | `native/unknown` |
+| [nika-macos-arm64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-macos-arm64-0.124.5.tar.gz) | 28.7 MiB | `native/darwin/arm64` |
+| [nika-macos-x64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-macos-x64-0.124.5.tar.gz) | 32.6 MiB | `native/darwin/x64` |
+| [nika-open-nika-check-wasm-0.124.5.tgz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-open-nika-check-wasm-0.124.5.tgz) | 1.3 MiB | `native/unknown` |
+| [nika-open-nika-check-wasm-0.124.5.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-open-nika-check-wasm-0.124.5.tgz.sha256) | 104 B | `other` |
+| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.124.5/SHA256SUMS) | 388 B | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T08:07:04Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:50:04Z._
