@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33161153,
       "digest": "sha256:6b626b68f0c14209dbfe6dabe481b377662d8e1bac64ba81844f9d4ad5e81f5d",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-20T11:11:05Z",
       "updated_at": "2026-11-20T11:11:06Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.124.5/nika-linux-arm64-0.124.5.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 35181843,
       "digest": "sha256:4573690b8c4421dfe434009cf94844e4f7ad214b99c744780d878095c415a7c2",
-      "download_count": 44,
+      "download_count": 62,
       "created_at": "2026-11-20T11:11:08Z",
       "updated_at": "2026-11-20T11:11:09Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.124.5/nika-linux-x64-0.124.5.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30064482,
       "digest": "sha256:2b5561593d766a56619883d486cffe54a422267afa7d4753c5e927bd1e7bc6fb",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-20T11:10:58Z",
       "updated_at": "2026-11-20T11:10:59Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.124.5/nika-macos-arm64-0.124.5.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:fa697ab809f41b0cc3bdcfb807ae758040a51bbb712657118239f87f2668310b",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-20T11:11:19Z",
       "updated_at": "2026-11-20T11:11:19Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.124.5/nika-open-nika-check-wasm-0.124.5.tgz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:5df861c8a47ff68d9774c57aa899ea4db60cafa975f2eb306c4b78b0301fcc2a",
-      "download_count": 52,
+      "download_count": 72,
       "created_at": "2026-11-20T11:11:12Z",
       "updated_at": "2026-11-20T11:11:12Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.124.5/SHA256SUMS"
