@@ -14,13 +14,13 @@ x install nika
 
 ## Code insight
 
-Total: **1,091,749** lines of code across **3651** files in the top 5 languages.
+Total: **1,111,301** lines of code across **3704** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 943,404 | 36,603 | 63,616 | 2856 |
-| Json | 85,811 | 0 | 0 | 434 |
-| Toml | 18,367 | 2,267 | 2,535 | 116 |
+| Rust | 961,614 | 37,074 | 65,048 | 2908 |
+| Json | 87,135 | 0 | 0 | 435 |
+| Toml | 18,385 | 2,267 | 2,537 | 116 |
 | Sh | 14,827 | 5,612 | 1,795 | 189 |
 | JavaScript | 12,871 | 1,332 | 628 | 56 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.124.5` (2026-11-20)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-24
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 1191 · **Open PRs**: 6 · **Closed issues**: 426 · **Open issues**: 26 · **Commits**: 2584
+- **Releases**: 57 · **Merged PRs**: 1204 · **Open PRs**: 7 · **Closed issues**: 426 · **Open issues**: 26 · **Commits**: 2597
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 57 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 57 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 57 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 57 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 57 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 57 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:24:03Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:40:09Z._
