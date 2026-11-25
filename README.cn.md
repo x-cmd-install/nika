@@ -14,12 +14,12 @@ x install nika
 
 ## 代码洞察
 
-合计: **1,111,301** 行代码（覆盖前 5 种语言、共 **3704** 个文件）。
+合计: **1,115,535** 行代码（覆盖前 5 种语言、共 **3708** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 961,614 | 37,074 | 65,048 | 2908 |
-| Json | 87,135 | 0 | 0 | 435 |
+| Rust | 965,813 | 36,764 | 65,318 | 2912 |
+| Json | 87,170 | 0 | 0 | 435 |
 | Toml | 18,385 | 2,267 | 2,537 | 116 |
 | Sh | 14,827 | 5,612 | 1,795 | 189 |
 | JavaScript | 12,871 | 1,332 | 628 | 56 |
@@ -42,41 +42,41 @@ x install nika
 
 ## 发布
 
-- **最新版本**: `v0.124.5` (2026-11-20)
+- **最新版本**: `v0.125.1` (2026-11-25)
 - **最近提交**: 2026-11-24
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 101 · **Fork**: 6 · **开放 issue**: 452 · **贡献者**: 3
+- **Star**: 101 · **Fork**: 6 · **开放 issue**: 454 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 57 · **已合并 PR**: 1204 · **开放 PR**: 7 · **已关闭 issue**: 426 · **开放 issue**: 26 · **提交数**: 2597
+- **发布数**: 59 · **已合并 PR**: 1213 · **开放 PR**: 5 · **已关闭 issue**: 426 · **开放 issue**: 28 · **提交数**: 2606
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 57 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 57 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 57 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 59 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 59 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 59 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.124.5/multiple.intoto.jsonl) | 25.6 KiB | `other` |
-| [nika-linux-arm64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-linux-arm64-0.124.5.tar.gz) | 31.6 MiB | `native/linux/arm64` |
-| [nika-linux-x64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-linux-x64-0.124.5.tar.gz) | 33.6 MiB | `native/unknown` |
-| [nika-macos-arm64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-macos-arm64-0.124.5.tar.gz) | 28.7 MiB | `native/darwin/arm64` |
-| [nika-macos-x64-0.124.5.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-macos-x64-0.124.5.tar.gz) | 32.6 MiB | `native/darwin/x64` |
-| [nika-open-nika-check-wasm-0.124.5.tgz](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-open-nika-check-wasm-0.124.5.tgz) | 1.3 MiB | `native/unknown` |
-| [nika-open-nika-check-wasm-0.124.5.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.124.5/nika-open-nika-check-wasm-0.124.5.tgz.sha256) | 104 B | `other` |
-| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.124.5/SHA256SUMS) | 388 B | `other` |
+| [multiple.intoto.jsonl](https://github.com/supernovae-st/nika/releases/download/v0.125.1/multiple.intoto.jsonl) | 23.2 KiB | `other` |
+| [nika-linux-arm64-0.125.1.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.125.1/nika-linux-arm64-0.125.1.tar.gz) | 32.0 MiB | `native/linux/arm64` |
+| [nika-linux-x64-0.125.1.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.125.1/nika-linux-x64-0.125.1.tar.gz) | 33.9 MiB | `native/unknown` |
+| [nika-macos-arm64-0.125.1.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.125.1/nika-macos-arm64-0.125.1.tar.gz) | 29.0 MiB | `native/darwin/arm64` |
+| [nika-macos-x64-0.125.1.tar.gz](https://github.com/supernovae-st/nika/releases/download/v0.125.1/nika-macos-x64-0.125.1.tar.gz) | 33.0 MiB | `native/darwin/x64` |
+| [nika-open-nika-check-wasm-0.125.1.tgz](https://github.com/supernovae-st/nika/releases/download/v0.125.1/nika-open-nika-check-wasm-0.125.1.tgz) | 1.3 MiB | `native/unknown` |
+| [nika-open-nika-check-wasm-0.125.1.tgz.sha256](https://github.com/supernovae-st/nika/releases/download/v0.125.1/nika-open-nika-check-wasm-0.125.1.tgz.sha256) | 104 B | `other` |
+| [SHA256SUMS](https://github.com/supernovae-st/nika/releases/download/v0.125.1/SHA256SUMS) | 388 B | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ nika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:40:09Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:29:28Z._
