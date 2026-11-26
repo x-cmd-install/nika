@@ -14,14 +14,14 @@ x install nika
 
 ## Code insight
 
-Total: **1,115,535** lines of code across **3708** files in the top 5 languages.
+Total: **1,125,102** lines of code across **3735** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 965,813 | 36,764 | 65,318 | 2912 |
-| Json | 87,170 | 0 | 0 | 435 |
-| Toml | 18,385 | 2,267 | 2,537 | 116 |
-| Sh | 14,827 | 5,612 | 1,795 | 189 |
+| Rust | 973,856 | 36,950 | 65,821 | 2928 |
+| Json | 87,600 | 0 | 0 | 445 |
+| Toml | 18,720 | 2,516 | 2,574 | 116 |
+| Sh | 14,891 | 5,650 | 1,798 | 190 |
 | JavaScript | 12,871 | 1,332 | 628 | 56 |
 
 ## OpenSSF Scorecard
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.125.1` (2026-11-25)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1213 · **Open PRs**: 5 · **Closed issues**: 426 · **Open issues**: 28 · **Commits**: 2606
+- **Releases**: 59 · **Merged PRs**: 1219 · **Open PRs**: 6 · **Closed issues**: 427 · **Open issues**: 27 · **Commits**: 2612
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 23 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 59 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 59 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 59 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 59 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 59 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 59 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:29:27Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:58:37Z._
