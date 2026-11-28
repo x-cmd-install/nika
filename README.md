@@ -14,13 +14,13 @@ x install nika
 
 ## Code insight
 
-Total: **1,139,509** lines of code across **3771** files in the top 5 languages.
+Total: **1,143,747** lines of code across **3780** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 988,241 | 37,254 | 66,766 | 2964 |
+| Rust | 992,488 | 37,333 | 67,034 | 2973 |
 | Json | 87,607 | 0 | 0 | 445 |
-| Toml | 18,724 | 2,530 | 2,574 | 116 |
+| Toml | 18,718 | 2,519 | 2,571 | 116 |
 | Sh | 14,892 | 5,655 | 1,798 | 190 |
 | JavaScript | 12,881 | 1,336 | 628 | 56 |
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1229 · **Open PRs**: 4 · **Closed issues**: 427 · **Open issues**: 28 · **Commits**: 2622
+- **Releases**: 60 · **Merged PRs**: 1236 · **Open PRs**: 5 · **Closed issues**: 427 · **Open issues**: 28 · **Commits**: 2629
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-29 | 24 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-31 | 60 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-02 | 60 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-07 | 60 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-29 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-29 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-30 | 24 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-06-01 | 60 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-03 | 60 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-08 | 60 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for nika lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:42:14Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:29:45Z._
