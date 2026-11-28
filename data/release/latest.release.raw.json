@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 35935745,
       "digest": "sha256:097a5401374f70303a9efea3da7b1c51e5b7cd735f9218f418ba0e2078dd58de",
-      "download_count": 84,
+      "download_count": 91,
       "created_at": "2026-11-26T15:15:33Z",
       "updated_at": "2026-11-26T15:15:34Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.125.2/nika-linux-x64-0.125.2.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30726063,
       "digest": "sha256:fcd162d05c650ce43fa4650ed180b2d38eec90f26139a6034fd7a64705fbc86e",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-26T15:15:24Z",
       "updated_at": "2026-11-26T15:15:25Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.125.2/nika-macos-arm64-0.125.2.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:187120538533515b60163f67b86c5a53cdf3c0f485fa7904416adf031353b46f",
-      "download_count": 82,
+      "download_count": 89,
       "created_at": "2026-11-26T15:15:36Z",
       "updated_at": "2026-11-26T15:15:36Z",
       "browser_download_url": "https://github.com/nika-open/nika/releases/download/v0.125.2/SHA256SUMS"
